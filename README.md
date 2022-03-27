@@ -1,8 +1,8 @@
 
 ```sh
-<b>Disciplina:</b> Redes 2
-<b>Grupo:</b> Allan de Lima, João Vitor Specht Kogut, Nicole Magagnin
-<b>Professor:</b> Felipe Viel
+Disciplina: Redes 2
+Grupo:Allan de Lima, João Vitor Specht Kogut, Nicole Magagnin
+Professor: Felipe Viel
 ```
 
 
