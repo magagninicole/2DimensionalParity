@@ -8,14 +8,14 @@ Professor: Felipe Viel
 
 # O projeto
 
-Projeto 3 – Desenvolvimento de EDC
+Projeto 3 – Desenvolvimento de EDC<br>
 Escolha uma das técnicas de geração de EDC vistas ou citadas em aula e desenvolva em software,
-sem auxílio de bibliotecas, o algoritmo. Você poderá fazer:
-• Checksum
-• CRC
-• Hamming
-• <b>Paridade Bidimensional</b>
-• Reed-Solomon (acredito que ninguém escolherá esse)
+sem auxílio de bibliotecas, o algoritmo. Você poderá fazer:<br>
+• Checksum<br>
+• CRC<br>
+• Hamming<br>
+• <b>Paridade Bidimensional</b><br>
+• Reed-Solomon (acredito que ninguém escolherá esse)<br>
 Você poderá fazer com a linguagem de sua escolha, como C/C++, Python, Rust, Java, etc. Porém,
 ressalta-se que não deve ser utilizado nenhuma biblioteca que auxilie na geração do EDC. Há a
 dúvida se alguma biblioteca pode ou não ser usada, questionar o professor. Os dados a serem
